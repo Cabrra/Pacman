@@ -3,7 +3,7 @@ Pacman
 
 ## Overview
 
-![Pacman](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/pacman.png)
+![Pacman](https://raw.githubusercontent.com/Cabrra/cabrra.github.io/master/Images/pacman.png?token=AI_RbXKaq3mGt_7oe2OvMm50QYnyQsbQks5bo4aiwA%3D%3D)
 
 This is a simplified turn-based pacman game for windows cmd.
 
